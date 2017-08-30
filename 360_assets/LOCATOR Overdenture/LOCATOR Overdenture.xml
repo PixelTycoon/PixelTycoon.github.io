@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <settings>
+    <preloader image="images/Row_000Column_000.png" />
+    <userInterface showZoomButtons="true" showToolTips="true" showHotspotsButton="true" showFullScreenButton="true" showTogglePlayButton="true" showArrows="true" toolbarAlign="center" toolbarBackColor="transparent" toolbarHoverColor="#808285" toolbarForeColor="#A7A9AE" toolbarBackAlpha="0" toolbarAlpha="1" showProgressNumbers="true" showFullScreenToolbar="false" fullScreenBackColor="transparent" />
+    <control dragSpeed="0.13" doubleClickZooms="true" disableMouseControl="false" showHighresOnFullScreen="true" mouseHoverDrag="false" hideHotspotsOnLoad="false" hideHotspotsOnZoom="true" rowSensitivity="15" dragSensitivity="10" inBrowserFullScreen="false" doubleClickFullscreen="false" />
+    <rotation firstImage="0" rotate="false" rotatePeriod="7" bounce="false" rotateDirection="-1" forceDirection="false" inertiaRelToDragSpeed="true" inertiaTimeToStop="700" inertiaMaxInterval="120" useInertia="true" flipHorizontalInput="false" flipVerticalInput="false" bounceRows="true" />
+  </settings>
+  <hotspots />
+  <images rows="5" highresWidth="1000" highresHeight="500">
+    <image src="images/Row_000Column_000.png">
+      <highres src="images/highres/Row_000Column_000.png" />
+    </image>
+    <image src="images/Row_000Column_001.png">
+      <highres src="images/highres/Row_000Column_001.png" />
+    </image>
+    <image src="images/Row_000Column_002.png">
+      <highres src="images/highres/Row_000Column_002.png" />
+    </image>
+    <image src="images/Row_000Column_003.png">
+      <highres src="images/highres/Row_000Column_003.png" />
+    </image>
+    <image src="images/Row_000Column_004.png">
+      <highres src="images/highres/Row_000Column_004.png" />
+    </image>
+    <image src="images/Row_000Column_005.png">
+      <highres src="images/highres/Row_000Column_005.png" />
+    </image>
+    <image src="images/Row_000Column_006.png">
+      <highres src="images/highres/Row_000Column_006.png" />
+    </image>
+    <image src="images/Row_000Column_007.png">
+      <highres src="images/highres/Row_000Column_007.png" />
+    </image>
+    <image src="images/Row_000Column_008.png">
+      <highres src="images/highres/Row_000Column_008.png" />
+    </image>
+    <image src="images/Row_000Column_009.png">
+      <highres src="images/highres/Row_000Column_009.png" />
+    </image>
+    <image src="images/Row_001Column_000.png">
+      <highres src="images/highres/Row_001Column_000.png" />
+    </image>
+    <image src="images/Row_001Column_001.png">
+      <highres src="images/highres/Row_001Column_001.png" />
+    </image>
+    <image src="images/Row_001Column_002.png">
+      <highres src="images/highres/Row_001Column_002.png" />
+    </image>
+    <image src="images/Row_001Column_003.png">
+      <highres src="images/highres/Row_001Column_003.png" />
+    </image>
+    <image src="images/Row_001Column_004.png">
+      <highres src="images/highres/Row_001Column_004.png" />
+    </image>
+    <image src="images/Row_001Column_005.png">
+      <highres src="images/highres/Row_001Column_005.png" />
+    </image>
+    <image src="images/Row_001Column_006.png">
+      <highres src="images/highres/Row_001Column_006.png" />
+    </image>
+    <image src="images/Row_001Column_007.png">
+      <highres src="images/highres/Row_001Column_007.png" />
+    </image>
+    <image src="images/Row_001Column_008.png">
+      <highres src="images/highres/Row_001Column_008.png" />
+    </image>
+    <image src="images/Row_001Column_009.png">
+      <highres src="images/highres/Row_001Column_009.png" />
+    </image>
+    <image src="images/Row_002Column_000.png">
+      <highres src="images/highres/Row_002Column_000.png" />
+    </image>
+    <image src="images/Row_002Column_001.png">
+      <highres src="images/highres/Row_002Column_001.png" />
+    </image>
+    <image src="images/Row_002Column_002.png">
+      <highres src="images/highres/Row_002Column_002.png" />
+    </image>
+    <image src="images/Row_002Column_003.png">
+      <highres src="images/highres/Row_002Column_003.png" />
+    </image>
+    <image src="images/Row_002Column_004.png">
+      <highres src="images/highres/Row_002Column_004.png" />
+    </image>
+    <image src="images/Row_002Column_005.png">
+      <highres src="images/highres/Row_002Column_005.png" />
+    </image>
+    <image src="images/Row_002Column_006.png">
+      <highres src="images/highres/Row_002Column_006.png" />
+    </image>
+    <image src="images/Row_002Column_007.png">
+      <highres src="images/highres/Row_002Column_007.png" />
+    </image>
+    <image src="images/Row_002Column_008.png">
+      <highres src="images/highres/Row_002Column_008.png" />
+    </image>
+    <image src="images/Row_002Column_009.png">
+      <highres src="images/highres/Row_002Column_009.png" />
+    </image>
+    <image src="images/Row_003Column_000.png">
+      <highres src="images/highres/Row_003Column_000.png" />
+    </image>
+    <image src="images/Row_003Column_001.png">
+      <highres src="images/highres/Row_003Column_001.png" />
+    </image>
+    <image src="images/Row_003Column_002.png">
+      <highres src="images/highres/Row_003Column_002.png" />
+    </image>
+    <image src="images/Row_003Column_003.png">
+      <highres src="images/highres/Row_003Column_003.png" />
+    </image>
+    <image src="images/Row_003Column_004.png">
+      <highres src="images/highres/Row_003Column_004.png" />
+    </image>
+    <image src="images/Row_003Column_005.png">
+      <highres src="images/highres/Row_003Column_005.png" />
+    </image>
+    <image src="images/Row_003Column_006.png">
+      <highres src="images/highres/Row_003Column_006.png" />
+    </image>
+    <image src="images/Row_003Column_007.png">
+      <highres src="images/highres/Row_003Column_007.png" />
+    </image>
+    <image src="images/Row_003Column_008.png">
+      <highres src="images/highres/Row_003Column_008.png" />
+    </image>
+    <image src="images/Row_003Column_009.png">
+      <highres src="images/highres/Row_003Column_009.png" />
+    </image>
+    <image src="images/Row_004Column_000.png">
+      <highres src="images/highres/Row_004Column_000.png" />
+    </image>
+    <image src="images/Row_004Column_001.png">
+      <highres src="images/highres/Row_004Column_001.png" />
+    </image>
+    <image src="images/Row_004Column_002.png">
+      <highres src="images/highres/Row_004Column_002.png" />
+    </image>
+    <image src="images/Row_004Column_003.png">
+      <highres src="images/highres/Row_004Column_003.png" />
+    </image>
+    <image src="images/Row_004Column_004.png">
+      <highres src="images/highres/Row_004Column_004.png" />
+    </image>
+    <image src="images/Row_004Column_005.png">
+      <highres src="images/highres/Row_004Column_005.png" />
+    </image>
+    <image src="images/Row_004Column_006.png">
+      <highres src="images/highres/Row_004Column_006.png" />
+    </image>
+    <image src="images/Row_004Column_007.png">
+      <highres src="images/highres/Row_004Column_007.png" />
+    </image>
+    <image src="images/Row_004Column_008.png">
+      <highres src="images/highres/Row_004Column_008.png" />
+    </image>
+    <image src="images/Row_004Column_009.png">
+      <highres src="images/highres/Row_004Column_009.png" />
+    </image>
+  </images>
+</config>
